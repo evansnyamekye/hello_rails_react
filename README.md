@@ -17,6 +17,7 @@
 - [📜 License](#license)
 
 ## 👋 Hello Rails React <a name="about-project"></a>
+The Hello Rails React application is designed to display greetings on a website on both desktop and mobile devices. The concept behind the development of this website is create a connection between ruby on rails backend and react front end. 
 
 ## 🛠 Built With <a name="built-with"></a>
 

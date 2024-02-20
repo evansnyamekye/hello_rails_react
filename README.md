@@ -93,7 +93,7 @@ To get started with the Budget App, follow the instructions below:
    cd hello-rails-react
    ```
 ### Prerequisites <a name="prerequisites"></a>
-Before you can run the Budget App, make sure you have the following prerequisites and configurations in place:
+Before you can run the hello rail react app, kindly make sure you have the following prerequisites and configurations in place:
 
 - **Ruby**: Ensure that Ruby is installed on your machine. You can check if it's installed by running `ruby -v` in your terminal. If it's not installed, you can download and install it from the [official Ruby website](https://www.ruby-lang.org/en/documentation/installation/).
 
@@ -132,20 +132,19 @@ Open your web browser and go to http://localhost:3000 to access the Hello Rails 
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Sadaf Daneshgar**
-
-- 👤 GitHub: [@Sadaf-Daneshgar](https://github.com/sadaf-Daneshgar)
-- 👤 Twitter: [@SadafDaneshgar](https://twitter.com/SadafDaneshgar)
-- 👤 LinkedIn: [Sadaf Daneshgar](https://www.linkedin.com/in/sadaf-daneshgar-2002saba/)
+👤 **Evans Kofi Nyamekye**
+- GitHub: [evansnyamekye](https://github.com/evansnyamekye)
+- Twitter: [@nyamekye2131](https://twitter.com/nyamekye2131)
+- LinkedIn: [Evans Kofi Nyamekye](https://www.linkedin.com/in/evans-kofi-nyamekye-1980a4117/)
 
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome! 
-Feel free to check the issues [page](https://github.com/sadaf-Daneshgar/Hello_Rails_React/issues) and contribute to the project.
+Feel free to check the issues [page](https://github.com/evansnyamekye/hello_rails_react/issues/4) and contribute to the project.
 
 ## ⭐️ Show Your Support <a name="support"></a>
-If you like this project, kindly drop a start ⭐️ for the [repository](https://github.com/sadaf-Daneshgar/Hello_Rails_React);
+If you like this project, kindly drop a start ⭐️ for the [repository](https://github.com/evansnyamekye/hello_rails_react.git);
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -153,9 +152,8 @@ If you like this project, kindly drop a start ⭐️ for the [repository](https:
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-**I would like to thank the following individuals and organizations for their contribution to this project.**
-
-- I would like to express my heartfelt gratitude to [**Microverse**](https://www.microverse.org/?grsf=mohammad-a-nbtazu) for the invaluable learning experience they have provided.
+I would like to specially Thank Tem, Adeka and all team mates for the continues discussions on every Project we undertake. This has really helped build 
+much confident in us to face every task assign to us. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -21,6 +21,8 @@ The Hello Rails React application is designed to display greetings on a website 
 
 ## 🛠 Built With <a name="built-with"></a>
 
+### Tech Stack <a name="tech-stack"></a>
+
 <details>
   <summary>Client</summary>
   <ul>

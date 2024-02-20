@@ -85,7 +85,7 @@ To get started with the Budget App, follow the instructions below:
 1. Clone the project repository:
 
    ```bash
-   git clone https://github.com/sadaf-Daneshgar/Hello_Rails_React.git
+   git clone https://github.com/evansnyamekye/hello_rails_react.git
     ```
 2. Navigate to the project folder:
 
